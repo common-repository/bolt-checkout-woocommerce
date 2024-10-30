@@ -1,0 +1,7 @@
+/**
+ * All of the CSS for your admin-specific functionality should be
+ * included in this file.
+ */
+
+.widefat .column-order_status mark.bolt-reject::after {content: "\e033";font-family: FontAwesome;color: #73a724;}
+table th#bolttransactionid {width: 14ch;text-align: left;}
